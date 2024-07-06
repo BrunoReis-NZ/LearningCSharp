@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruno\\Desktop\\IT_Studies\\CSharp\\LearningCsharp\\TextFormatter\\TextFormatter.csproj": {}
+    "C:\\Users\\bruno\\Desktop\\IT_Studies\\CSharp\\LearningCSharp\\TextFormatter\\TextFormatter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruno\\Desktop\\IT_Studies\\CSharp\\LearningCsharp\\TextFormatter\\TextFormatter.csproj": {
+    "C:\\Users\\bruno\\Desktop\\IT_Studies\\CSharp\\LearningCSharp\\TextFormatter\\TextFormatter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno\\Desktop\\IT_Studies\\CSharp\\LearningCsharp\\TextFormatter\\TextFormatter.csproj",
+        "projectUniqueName": "C:\\Users\\bruno\\Desktop\\IT_Studies\\CSharp\\LearningCSharp\\TextFormatter\\TextFormatter.csproj",
         "projectName": "TextFormatter",
-        "projectPath": "C:\\Users\\bruno\\Desktop\\IT_Studies\\CSharp\\LearningCsharp\\TextFormatter\\TextFormatter.csproj",
+        "projectPath": "C:\\Users\\bruno\\Desktop\\IT_Studies\\CSharp\\LearningCSharp\\TextFormatter\\TextFormatter.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno\\Desktop\\IT_Studies\\CSharp\\LearningCsharp\\TextFormatter\\obj\\",
+        "outputPath": "C:\\Users\\bruno\\Desktop\\IT_Studies\\CSharp\\LearningCSharp\\TextFormatter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
