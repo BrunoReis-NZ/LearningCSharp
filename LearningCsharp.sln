@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFormatter", "TextFormatter\TextFormatter.csproj", "{5E64B570-1126-44C6-9C23-3518BBBA81C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextFormatter", "TextFormatter\TextFormatter.csproj", "{5E64B570-1126-44C6-9C23-3518BBBA81C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeChecker", "PalindromeChecker\PalindromeChecker.csproj", "{50F5BE67-8EAA-4A08-9A10-7193B0D04199}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeChecker", "PalindromeChecker\PalindromeChecker.csproj", "{50F5BE67-8EAA-4A08-9A10-7193B0D04199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelsAndConsonantsCounter", "VowelsAndConsonantsCounter\VowelsAndConsonantsCounter.csproj", "{F2035EB0-F261-4FD6-9A79-EF82486BBE5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{50F5BE67-8EAA-4A08-9A10-7193B0D04199}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50F5BE67-8EAA-4A08-9A10-7193B0D04199}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50F5BE67-8EAA-4A08-9A10-7193B0D04199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2035EB0-F261-4FD6-9A79-EF82486BBE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2035EB0-F261-4FD6-9A79-EF82486BBE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2035EB0-F261-4FD6-9A79-EF82486BBE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2035EB0-F261-4FD6-9A79-EF82486BBE5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,19 +6,28 @@ namespace LearningCSharp
     {
         static void Main(string[] args)
         {
-            string input = "A man, a plan, a canal, Panama";
-            if (PalindromeChecker(input))
+            Console.WriteLine("Please write a sentence: \n");
+            string sentence = Console.ReadLine();
+                        
+
+            if (PalindromeChecker(sentence))
             {
-                Console.WriteLine($"The sentence \"{input}\" is a palindrome.");
+                Console.WriteLine($"\nThe sentence \"{sentence}\" is a palindrome.");
             }
             else
             {
-                Console.WriteLine($"The sentence \"{input}\" is not a palindrome.");
+                Console.WriteLine($"\nThe sentence \"{sentence}\" is not a palindrome.");
             }
 
             Console.ReadKey();
         }
 
+
+        /// <summary>
+        /// This method checks if a given string is a palindrome
+        /// </summary>
+        /// <param name="input">The string to be checked</param>
+        /// <returns>True if the string is a palindrome, false otherwise</returns>
         static bool PalindromeChecker(string input)
         {
             string text = FormatText(input);
@@ -28,6 +37,11 @@ namespace LearningCSharp
             return text == reversedText;
         }
 
+        /// <summary>
+        /// This method formats the input string by removing non-alphanumeric characters and converting it to lowercase
+        /// </summary>
+        /// param name="text">The string to be formatted</param>
+        /// <returns>The formatted string</returns>
         static string FormatText(string text)
         {
             // Remove non-alphanumeric characters
@@ -63,7 +77,7 @@ It should return true if the input string is a palindrome and false otherwise.
 Example:
 Input:
 
-    A man, a plan, a canal, Panama
+    "A man, a plan, a canal, Panama!"
 
 Output:
 

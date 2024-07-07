@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TextFormatter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18129a6afa18beb18c54bca4167dbc9acac1e5c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffb2ddde0f422cda34b067ef9195173cfc5ffa52")]
 [assembly: System.Reflection.AssemblyProductAttribute("TextFormatter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TextFormatter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
