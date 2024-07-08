@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruno\\Desktop\\IT_Studies\\CSharp\\LearningCSharp\\PalindromeChecker\\PalindromeChecker.csproj": {}
+    "C:\\Users\\bruno\\Desktop\\IT_Studies\\CSharp\\LearningCsharp\\PalindromeChecker\\PalindromeChecker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruno\\Desktop\\IT_Studies\\CSharp\\LearningCSharp\\PalindromeChecker\\PalindromeChecker.csproj": {
+    "C:\\Users\\bruno\\Desktop\\IT_Studies\\CSharp\\LearningCsharp\\PalindromeChecker\\PalindromeChecker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno\\Desktop\\IT_Studies\\CSharp\\LearningCSharp\\PalindromeChecker\\PalindromeChecker.csproj",
+        "projectUniqueName": "C:\\Users\\bruno\\Desktop\\IT_Studies\\CSharp\\LearningCsharp\\PalindromeChecker\\PalindromeChecker.csproj",
         "projectName": "PalindromeChecker",
-        "projectPath": "C:\\Users\\bruno\\Desktop\\IT_Studies\\CSharp\\LearningCSharp\\PalindromeChecker\\PalindromeChecker.csproj",
+        "projectPath": "C:\\Users\\bruno\\Desktop\\IT_Studies\\CSharp\\LearningCsharp\\PalindromeChecker\\PalindromeChecker.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\bruno\\Desktop\\IT_Studies\\CSharp\\LearningCSharp\\PalindromeChecker\\obj\\",
         "projectStyle": "PackageReference",
